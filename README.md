@@ -16,3 +16,4 @@ Simple Interest = (Principal x Rate x Time) / 100
 
 ## Example
 Principal = 1000, Rate = 5, Time = 2 gives Simple Interest = 100
+Fixed a typo in the documentation.
